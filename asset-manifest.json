@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/eazy-react-project/static/css/main.48d317f1.chunk.css",
+    "main.js": "/eazy-react-project/static/js/main.dee19303.chunk.js",
+    "main.js.map": "/eazy-react-project/static/js/main.dee19303.chunk.js.map",
+    "runtime-main.js": "/eazy-react-project/static/js/runtime-main.89fec114.js",
+    "runtime-main.js.map": "/eazy-react-project/static/js/runtime-main.89fec114.js.map",
+    "static/js/2.41b17ae2.chunk.js": "/eazy-react-project/static/js/2.41b17ae2.chunk.js",
+    "static/js/2.41b17ae2.chunk.js.map": "/eazy-react-project/static/js/2.41b17ae2.chunk.js.map",
+    "index.html": "/eazy-react-project/index.html",
+    "precache-manifest.5d70128799a60469cfff315e85096f48.js": "/eazy-react-project/precache-manifest.5d70128799a60469cfff315e85096f48.js",
+    "service-worker.js": "/eazy-react-project/service-worker.js",
+    "static/css/main.48d317f1.chunk.css.map": "/eazy-react-project/static/css/main.48d317f1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89fec114.js",
+    "static/js/2.41b17ae2.chunk.js",
+    "static/css/main.48d317f1.chunk.css",
+    "static/js/main.dee19303.chunk.js"
+  ]
+}
